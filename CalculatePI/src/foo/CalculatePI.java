@@ -6,6 +6,7 @@ public class CalculatePI {
 	
 	private static double makePI(int iter){	
 		int dummy = 0;
+		int dummy2 = 0;
 		double result = 4.0;
 		int denom = 1;
 		boolean isPlus = false;
